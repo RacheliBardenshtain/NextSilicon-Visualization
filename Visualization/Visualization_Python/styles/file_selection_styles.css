@@ -1,0 +1,47 @@
+QWidget {
+    background-color: #f0f4f7; /* Light background color */
+    font-family: Arial; /* Font style */
+}
+
+QLabel {
+    color: #333; /* Dark text color */
+    font-size: 12pt; /* Font size */
+}
+
+QLineEdit {
+    background-color: #fff; /* White background for text input */
+    border: 2px solid #b0c4de; /* Light blue border */
+    padding: 4px; /* Padding inside text input */
+    border-radius: 5px; /* Rounded corners */
+}
+
+QPushButton {
+    background-color: #87ceeb; /* Sky blue background */
+    color: #fff; /* White text */
+    border: none; /* No border */
+    padding: 8px 16px; /* Padding for button */
+    font-size: 12pt; /* Font size for button text */
+    border-radius: 5px; /* Rounded corners */
+}
+
+QPushButton:disabled {
+    background-color: #cccccc; /* Gray background when disabled */
+    color: #666666; /* Dark gray text when disabled */
+}
+
+QPushButton:hover {
+    background-color: #00bfff; /* Bright blue on hover */
+}
+
+QPushButton:pressed {
+    background-color: #1e90ff; /* Darker blue when pressed */
+}
+
+QMessageBox {
+    background-color: #f0f4f7; /* Same background for message boxes */
+    font-family: Arial; /* Font style for message boxes */
+}
+
+QMessageBox QLabel {
+    color: #333; /* Dark text color for message boxes */
+}
