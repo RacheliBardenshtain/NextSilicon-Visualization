@@ -111,9 +111,9 @@ Select one of the options, or type `Exit` to leave the counting mode.
  for testing the code add the USE_TEST flag to the compilation command
 ## Contributors
 This project was developed by a talented and dedicated team:
+- [Rachel Bardenshtain](https://github.com/RacheliBardenshtain)
 - [Chaya Avramovitz](https://github.com/chayaleA)
 - [Elisheva Volpo](https://github.com/Elisheva-Volpo)
 - [Nechama Shavrin](https://github.com/Nechama-Sha)
-- [Rachel Bardenshtain](https://github.com/RacheliBardenshtain)
-
+  
 Feel free to contribute or provide suggestions to make this tool even more powerful.
