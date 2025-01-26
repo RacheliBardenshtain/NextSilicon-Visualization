@@ -14,7 +14,7 @@ This project provides a visual analyzer for the full application execution in a 
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="images/die_display.png" alt="Main Interface" width="300" style="margin-right:5px;"/>
-    <img src="images/host_interface_display.png" alt="Host Interface Layer" width="300" style="margin-right:5px;"/>
+    <img src="Visualization_Python/images/host_interface_display.png" alt="Host Interface Layer" width="300" style="margin-right:5px;"/>
         <img src="images/clusters_display.png" alt="Die Visualization" width="300"/>
 
 </div>
